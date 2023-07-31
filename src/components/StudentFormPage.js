@@ -1,5 +1,5 @@
 import React from "react";
-import StudentForm from "./components/StudentForm";
+import StudentForm from "./StudentForm";
 
 const StudentFormPage = ({ onSubmit, student }) => {
   return (
